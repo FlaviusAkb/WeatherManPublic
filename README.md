@@ -21,3 +21,4 @@ The WeatherMan App allows users to search for a city and view detailed weather i
 - Alamofire
 - Cache
 - Firebase
+- Figma Design: https://www.figma.com/file/AF3UsEpdvSa2FclLzoyRvq/Weather-App-(Community)?type=design&node-id=40-282&mode=design&t=rujan5u5WDVphzrz-0
